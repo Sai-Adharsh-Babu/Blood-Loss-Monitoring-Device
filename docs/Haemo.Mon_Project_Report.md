@@ -1,4 +1,4 @@
-# **HaemoMon_Project_Report**
+# **Haemo.Mon Group Project Report**
 
 ## **Description:**  
 **Complete report for the *Haemo.mon Blood Loss Monitoring System* project.**  
